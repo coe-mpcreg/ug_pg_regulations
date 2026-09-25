@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Examination Regulations and Degree Requirements</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ asset('style.css') }}">
+</head>
+<body>
+
+<div class="ledger-spine"></div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-text">
+      <h1>Examination Regulations and Degree Requirements</h1>
+      <div class="title-rule"></div>
+      <p class="year-scope">Applicable from the 2019 Admission Batch onwards</p>
+    </div>
+    <div class="masthead-divider" aria-hidden="true"></div>
+    <img
+      class="institution-logo"
+      src="{{ url_for('static', filename='nie-logo.svg') }}"
+      alt="NIE, Mysore logo"
+    >
+  </div>
+</header>
+
+<main>
+
+  <!-- ================= INDEX (Page 1) ================= -->
+  <section id="homeView" class="ledger-index">
+    <div class="index-heading">
+      <h2>Explore examination related regulations</h2>
+    </div>
+
+    <div class="index-grid">
+      <button type="button" class="index-card part-ug" id="openUg">
+        <span class="part-tag">UG</span>
+        <h3>Undergraduate</h3>
+        <p class="part-scope">B.E. &middot; 2019 admission batch onwards</p>
+        <ul class="part-contents">
+          <li>Part A &mdash; General Regulations</li>
+          <li>Part B &mdash; Batch&#8209;Wise Regulations</li>
+        </ul>
+        <span class="part-open">Open UG &nbsp;→</span>
+      </button>
+
+      <button type="button" class="index-card part-pg" id="openPg">
+        <span class="part-tag">PG</span>
+        <h3>Postgraduate</h3>
+        <p class="part-scope">M.Tech &amp; MCA</p>
+        <ul class="part-contents">
+          <li>Credits &amp; last attempt</li>
+          <li>CIE / SEE passing minimum &amp; GMR</li>
+          <li>Grades &amp; class declaration</li>
+        </ul>
+        <span class="part-open">Open PG &nbsp;→</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- ================= UG: choose Part A / Part B ================= -->
+  <section id="ledgerIndex" class="ledger-index" hidden>
+    <button type="button" class="breadcrumb" data-back="home">
+      <svg class="breadcrumb-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 10.5 10 4l7 6.5M5 9v7h10V9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Home
+    </button>
+    <div class="index-heading">
+      <h2>UG &mdash; B.E. Regulations</h2>
+    </div>
+
+    <div class="index-grid">
+      <button type="button" class="index-card part-a" id="openGeneral">
+        <span class="part-tag">Part A</span>
+        <h3>General Regulations</h3>
+        <p class="part-scope">Applicable across all admission batches</p>
+        <ul class="part-contents">
+          <li>Credits</li>
+          <li>Last attempt</li>
+          <li>Passing criteria</li>
+        </ul>
+        <span class="part-open">Open Part A &nbsp;→</span>
+      </button>
+
+      <button type="button" class="index-card part-b" id="openBatch">
+        <span class="part-tag">Part B</span>
+        <h3>Batch&#8209;Wise Regulations</h3>
+        <p class="part-scope">By admission year, 2019&#8211;2026</p>
+        <ul class="part-contents">
+          <li>Credits, attempts &amp; grading</li>
+          <li>Class declaration &amp; CIE/SEE minimums</li>
+          <li>Post&#8209;even&#8209;semester provisions</li>
+        </ul>
+        <span class="part-open">Open Part B &nbsp;→</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- ================= PART A: GENERAL ================= -->
+  <section id="generalView" class="detail-view" hidden>
+    <button type="button" class="breadcrumb" data-back="ug">
+      <svg class="breadcrumb-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 10.5 10 4l7 6.5M5 9v7h10V9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      UG
+    </button>
+    <div class="detail-heading">
+      <span class="detail-tag">Part A</span>
+      <h2>General Regulations</h2>
+    </div>
+    <div id="generalArea" class="general-area">
+      <div class="empty-state">Loading general regulations&hellip;</div>
+    </div>
+  </section>
+
+  <!-- ================= PART B: BATCH-WISE ================= -->
+  <section id="batchView" class="detail-view" hidden>
+    <button type="button" class="breadcrumb" data-back="ug">
+      <svg class="breadcrumb-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 10.5 10 4l7 6.5M5 9v7h10V9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      UG
+    </button>
+    <div class="detail-heading">
+      <span class="detail-tag">Part B</span>
+      <h2>Batch&#8209;Wise Regulations</h2>
+      <p class="detail-scope">Select an admission year to open its record.</p>
+    </div>
+
+    <div class="year-picker" aria-label="Select admission year">
+      <div class="year-tabs" id="yearTabs">
+        {% for y in years %}
+        <button class="year-tab" data-year="{{ y }}">{{ y }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div id="recordArea" class="record-area">
+      <div class="empty-state">
+        <p>Select an admission year above to open its record.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= PG: GENERAL ================= -->
+  <section id="pgView" class="detail-view" hidden>
+    <button type="button" class="breadcrumb" data-back="home">
+      <svg class="breadcrumb-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 10.5 10 4l7 6.5M5 9v7h10V9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Home
+    </button>
+    <div class="detail-heading">
+      <span class="detail-tag">PG &middot; M.Tech / MCA</span>
+      <h2>PG General Regulations</h2>
+    </div>
+    <div id="pgArea" class="general-area">
+      <div class="empty-state">Loading PG regulations&hellip;</div>
+    </div>
+  </section>
+
+</main>
+
+<script src="{{ asset('app.js') }}"></script>
+</body>
+</html>

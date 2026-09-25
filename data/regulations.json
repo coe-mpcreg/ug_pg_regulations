@@ -1,0 +1,1423 @@
+{
+  "source_document": "UG_Batch_Regulations_Consolidated_2018_Onwards.docx",
+  "years": {
+    "2019": {
+      "admission_year": "2019-20",
+      "scheme": "2018 Scheme",
+      "total_credits": {
+        "regular": 175,
+        "lateral_entry": 135
+      },
+      "last_attempt": {
+        "regular": "AY 2026-27 (8 years max)",
+        "lateral_entry": "June/July 2026 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "S",
+            "label": "Out Standing",
+            "points": 10,
+            "score": "90 & Above"
+          },
+          {
+            "grade": "A",
+            "label": "Excellent",
+            "points": 9,
+            "score": "75-89"
+          },
+          {
+            "grade": "B",
+            "label": "Very Good",
+            "points": 8,
+            "score": "60-74"
+          },
+          {
+            "grade": "C",
+            "label": "Good",
+            "points": 7,
+            "score": "50-59"
+          },
+          {
+            "grade": "D",
+            "label": "Average",
+            "points": 5,
+            "score": "45-49"
+          },
+          {
+            "grade": "F",
+            "label": "Fail",
+            "points": 0,
+            "score": "< 45"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "I",
+            "meaning": "Incomplete — satisfactory CIE & attendance, absent in SEE due to valid reason"
+          },
+          {
+            "code": "X",
+            "meaning": "High CIE >=90%, but scored 'F' Grade — eligible for makeup"
+          },
+          {
+            "code": "W",
+            "meaning": "Withdrawal / shortage of attendance / CIE not met"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2018 to 2020, 2018 Scheme",
+        "formula": "Percentage = (CGPA - 0.75) x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.75",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": ">= 6.75 and < 7.75",
+            "percentage": "60% to < 70%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "< 6.75",
+            "percentage": "< 60%",
+            "class": "Second Class (SC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "2018 Scheme: As per NIE, Carry-Over 'F' was not applicable. Following VTU Circular (No. 4912) — 'Permitting Students to Carry Forward CIE Marks for Supplementary/Arrears Examinations' — Carry Over has been implemented with effect from December 2025.",
+      "min_cie_see": {
+        "theory": {
+          "cie": "50% (eligibility to appear for SEE)",
+          "see": "40% (to pass)",
+          "combined": "45% (CIE+SEE overall)"
+        },
+        "practical_drawing": {
+          "cie": "50% (eligibility for SET)",
+          "set": "50% weightage",
+          "combined": "45% (overall, CIE+SET)"
+        }
+      },
+      "notes": [
+        "Regular B.E./B.Tech students (2018-19 batch onwards): 100 Activity Points required.",
+        "Lateral Entry (2019-20 batch onwards): 75 Activity Points."
+      ]
+    },
+    "2020": {
+      "admission_year": "2020-21",
+      "scheme": "2018 Scheme",
+      "total_credits": {
+        "regular": 175,
+        "lateral_entry": 135
+      },
+      "last_attempt": {
+        "regular": "AY 2027-28 (8 years max)",
+        "lateral_entry": "All permissible attempts exhausted — 2020 & earlier lateral entry admissions (max 6 years from year of first admission)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "S",
+            "label": "Outstanding",
+            "points": 10,
+            "score": ">= 90"
+          },
+          {
+            "grade": "A",
+            "label": "Excellent",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "B",
+            "label": "Very Good",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "C",
+            "label": "Good",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "D",
+            "label": "Above Average",
+            "points": 6,
+            "score": "50-59"
+          },
+          {
+            "grade": "E",
+            "label": "Average Performance",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "label": "Fail",
+            "points": 0,
+            "score": "< 40"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "W",
+            "meaning": "Withdrawn — CIE requirement not met, attendance below 75%, or formal withdrawal with DC approval. Course must be repeated."
+          },
+          {
+            "code": "I",
+            "meaning": "Incomplete — satisfactory attendance & passing CIE, missed SEE for valid reason. Converts to S/A/B/C/D/E/F after makeup exam."
+          },
+          {
+            "code": "X",
+            "meaning": "Incomplete — high CIE (>=90%) but poor SEE that would otherwise result in F. Converts to final grade after makeup exam."
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2018 to 2020, 2018 Scheme",
+        "formula": "Percentage = (CGPA - 0.75) x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.75",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": ">= 6.75 and < 7.75",
+            "percentage": "60% to < 70%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "< 6.75",
+            "percentage": "< 60%",
+            "class": "Second Class (SC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "2018 Scheme: As per NIE, Carry-Over 'F' was not applicable. Following VTU Circular (No. 4912), Carry Over has been implemented with effect from December 2025.",
+      "min_cie_see": {
+        "theory": {
+          "cie": "40% (eligibility to SEE)",
+          "see": "40% (to pass)",
+          "combined": "40% (CIE+SEE overall)"
+        },
+        "practical_drawing_project": {
+          "cie": "50% (eligibility for SET)",
+          "set": "50%",
+          "combined": "50% overall (equivalent to D grade)"
+        }
+      },
+      "notes": [
+        "Min 20 / Max 28 credits per semester.",
+        "VTU '4-F Rule' circular applies from 2019-20 batch onward.",
+        "Max 5 consecutive attempts permitted to pass any credit course."
+      ]
+    },
+    "2021": {
+      "admission_year": "2021-22",
+      "scheme": "2021 Scheme",
+      "total_credits": {
+        "regular": 160,
+        "lateral_entry": 120
+      },
+      "last_attempt": {
+        "regular": "AY 2028-29 (8 years max)",
+        "lateral_entry": "AY 2026-27 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/calamity in family, grade point 0"
+          },
+          {
+            "code": "W",
+            "meaning": "Withdrawn — not scoring minimum attendance / CIE"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Batch 2021 onward, 2021/2022 Scheme",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "Supplementary Term — Carry Over",
+      "min_cie_see": {
+        "theory": {
+          "cie": "40%",
+          "see": "40%",
+          "combined": "40% (CIE+SEE)"
+        },
+        "practical": {
+          "cie": "50%",
+          "see_set": "50%",
+          "combined": "50% (CIE+SET)"
+        },
+        "drawing": {
+          "cie": "40%",
+          "see": "40%",
+          "combined": "40% (CIE+SEE)"
+        }
+      },
+      "notes": [
+        "Credit registration per semester: Min 16, Max 28.",
+        "Honours/Minors require additional 18 credits minimum.",
+        "Three mandatory internships across the programme.",
+        "Max 5 consecutive attempts to pass a course."
+      ]
+    },
+    "2022": {
+      "admission_year": "2022-23",
+      "scheme": "2022 Scheme",
+      "total_credits": {
+        "regular": 160,
+        "lateral_entry": 120
+      },
+      "last_attempt": {
+        "regular": "AY 2029-30 (8 years max)",
+        "lateral_entry": "AY 2027-28 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "IC",
+            "meaning": "Transitional Grade"
+          },
+          {
+            "code": "DX",
+            "meaning": "Not Eligible — CIE/Attendance"
+          },
+          {
+            "code": "AU",
+            "meaning": "Audit Course"
+          },
+          {
+            "code": "AB",
+            "meaning": "Absent"
+          },
+          {
+            "code": "PP",
+            "meaning": "Pass"
+          },
+          {
+            "code": "NP",
+            "meaning": "Not Passed"
+          },
+          {
+            "code": "W",
+            "meaning": "Withdrawn"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2022 to 2024, 2022 Scheme",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "Supplementary Semester with Forgo CIE",
+      "provision_circular_link": {
+        "label": "VTU Circular Ref: VTU/BGM/SA/Aca-Autonomous-Cirs/2024-25/1991, dated 31-07-2024",
+        "url": "/static/circulars/VTU_2022_batch_forgo_CIE_no_1991_31-07-2024.pdf"
+      },
+      "min_cie_see": {
+        "theory_practical": {
+          "cie": "40%",
+          "see": "40%",
+          "combined": "40% (CIE+SEE)"
+        }
+      },
+      "notes": []
+    },
+    "2023": {
+      "admission_year": "2023-24",
+      "scheme": "2022 Scheme",
+      "total_credits": {
+        "regular": 160,
+        "lateral_entry": 120
+      },
+      "last_attempt": {
+        "regular": "AY 2030-31 (8 years max)",
+        "lateral_entry": "AY 2028-29 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "IC",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity; credits not included in CGPA"
+          },
+          {
+            "code": "DX",
+            "meaning": "Not Eligible CIE/Attendance — grade point 0, credits not included in CGPA"
+          },
+          {
+            "code": "AU",
+            "meaning": "Audit Course — grade point 0, no credits"
+          },
+          {
+            "code": "AB",
+            "meaning": "Absent — SEE Absent"
+          },
+          {
+            "code": "PP",
+            "meaning": "Pass — NCMC pass"
+          },
+          {
+            "code": "NP",
+            "meaning": "Not Passed — NCMC fail"
+          },
+          {
+            "code": "W",
+            "meaning": "Withdrawn course"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2022 to 2024, 2022 Scheme",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "AY 2023-24: Supplementary Exam (only for all F grade). AY 2024-25: Supplementary Exam (only for all F grade). AY 2025-26: Supplementary Semester (approved by VTU); DX grade registration Allowed.",
+      "min_cie_see": {
+        "theory_practical": {
+          "label": "Theory/Practical",
+          "cie": "40%",
+          "see": "40%",
+          "combined": "40% (CIE+SEE)"
+        }
+      },
+      "notes": []
+    },
+    "2024": {
+      "admission_year": "2024-25",
+      "scheme": "2022 Scheme",
+      "total_credits": {
+        "regular": 160,
+        "lateral_entry": 120
+      },
+      "last_attempt": {
+        "regular": "AY 2031-32 (8 years max)",
+        "lateral_entry": "AY 2029-30 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity; credits not included in CGPA"
+          },
+          {
+            "code": "DX",
+            "meaning": "Not Eligible CIE/Attendance — grade point 0, credits not included in CGPA"
+          },
+          {
+            "code": "AU",
+            "meaning": "Audit Course — grade point 0, no credits"
+          },
+          {
+            "code": "AB",
+            "meaning": "Absent — SEE Absent"
+          },
+          {
+            "code": "PP",
+            "meaning": "Pass — NCMC pass"
+          },
+          {
+            "code": "NP",
+            "meaning": "Not Passed — NCMC fail"
+          },
+          {
+            "code": "W",
+            "meaning": "Withdrawn course"
+          },
+          {
+            "code": "X",
+            "meaning": "High CIE >=90%, but scored 'F' Grade — eligible for makeup"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "2022 Scheme table (as applied to 2024 batch)",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 5.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "Summer Semester",
+      "min_cie_see": {
+        "overall": {
+          "cie": "40%",
+          "see": "35%",
+          "combined": "40% (CIE+SEE overall)"
+        }
+      },
+      "notes": []
+    },
+    "2025": {
+      "admission_year": "2025-26",
+      "scheme": "2025 Scheme",
+      "total_credits": {
+        "regular": "160 + 5 (Skill Dev.)",
+        "lateral_entry": "120 + 4 (Skill Dev.)"
+      },
+      "last_attempt": {
+        "regular": "AY 2032-33 (8 years max)",
+        "lateral_entry": "AY 2030-31 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "AB",
+            "meaning": "Absent for the SEE of a registered Course"
+          },
+          {
+            "code": "DX",
+            "meaning": "Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements"
+          },
+          {
+            "code": "NP",
+            "meaning": "Not satisfied the CIE requirements (non-credit course), with or without satisfying attendance"
+          },
+          {
+            "code": "PP",
+            "meaning": "Pass grade in a non-credit course"
+          },
+          {
+            "code": "W",
+            "meaning": "Dropped or withdrawn from a registered course; re-registration required in summer semester to appear for SEE"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2025 Onwards, 2025 Scheme (Section 6.4)",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 4.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "Summer Semester (max 14 credits per summer semester; Project-based courses, Project Work, and Internship not permitted during Summer Semester)",
+      "min_cie_see": {
+        "theory": {
+          "cie": "40% (eligibility components as per course evaluation)",
+          "see": "minimum 35% of prescribed maximum SEE marks",
+          "combined": "not less than 40 out of 100 (CIE+SEE)"
+        }
+      },
+      "notes": [
+        "Minimum credit load per semester: not ordinarily less than 14 credits.",
+        "GMR (Grace Marks Rule, effective Oct 2024): 2% of maximum SEE marks, applicable only if it results in a Pass grade.",
+        "Accelerated Degree Programme option available (3.5 yrs regular / 2.5 yrs lateral) subject to CGPA >= 9 and Grade >= A in first attempt throughout."
+      ]
+    },
+    "2026": {
+      "admission_year": "2026-27",
+      "scheme": "2025 Scheme",
+      "total_credits": {
+        "regular": "160 + 5 (Skill Dev.)",
+        "lateral_entry": "120 + 4 (Skill Dev.)"
+      },
+      "last_attempt": {
+        "regular": "AY 2033-34 (8 years max)",
+        "lateral_entry": "AY 2031-32 (6 years max)"
+      },
+      "grades": {
+        "scale": [
+          {
+            "grade": "O",
+            "points": 10,
+            "score": "90-100"
+          },
+          {
+            "grade": "A+",
+            "points": 9,
+            "score": "80-89"
+          },
+          {
+            "grade": "A",
+            "points": 8,
+            "score": "70-79"
+          },
+          {
+            "grade": "B+",
+            "points": 7,
+            "score": "60-69"
+          },
+          {
+            "grade": "B",
+            "points": 6,
+            "score": "55-59"
+          },
+          {
+            "grade": "C",
+            "points": 5,
+            "score": "50-54"
+          },
+          {
+            "grade": "P",
+            "points": 4,
+            "score": "40-49"
+          },
+          {
+            "grade": "F",
+            "points": 0,
+            "score": "0-39"
+          }
+        ],
+        "other_grades": [
+          {
+            "code": "AB",
+            "meaning": "Absent for the SEE of a registered Course"
+          },
+          {
+            "code": "DX",
+            "meaning": "Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements"
+          },
+          {
+            "code": "NP",
+            "meaning": "Not satisfied the CIE requirements (non-credit course), with or without satisfying attendance"
+          },
+          {
+            "code": "PP",
+            "meaning": "Pass grade in a non-credit course"
+          },
+          {
+            "code": "W",
+            "meaning": "Dropped or withdrawn from a registered course; re-registration required in summer semester to appear for SEE"
+          }
+        ]
+      },
+      "class_declaration": {
+        "applicable_to": "Admission Batch 2025 & 2026, same as 2025 Scheme (Section 6.4 / 8.3)",
+        "formula": "Percentage = CGPA x 10",
+        "min_cgpa_for_degree": 4.0,
+        "bands": [
+          {
+            "cgpa": ">= 7.00",
+            "percentage": ">= 70%",
+            "class": "First Class with Distinction (FCD)"
+          },
+          {
+            "cgpa": "6.00 - 6.99",
+            "percentage": "60% - 69%",
+            "class": "First Class (FC)"
+          },
+          {
+            "cgpa": "5.00 - 5.99",
+            "percentage": "50% - 59%",
+            "class": "Second Class (SC)"
+          },
+          {
+            "cgpa": "4.00 - 4.99",
+            "percentage": "40% - 49%",
+            "class": "Pass Class (PC)"
+          }
+        ]
+      },
+      "provision_after_even_sem": "Summer Semester (same as 2025 batch provisions — max 14 credits, no Project-based courses/Project Work/Internship during Summer Semester)",
+      "min_cie_see": {
+        "theory": {
+          "cie": "40% (eligibility components as per course evaluation)",
+          "see": "minimum 35% of prescribed maximum SEE marks",
+          "combined": "not less than 40 out of 100 (CIE+SEE)"
+        }
+      },
+      "notes": [
+        "Minimum credit load per semester: not ordinarily less than 14 credits.",
+        "GMR (Grace Marks Rule, effective Oct 2024): 2% of maximum SEE marks, applicable only if it results in a Pass grade.",
+        "Accelerated Degree Programme option available (3.5 yrs regular / 2.5 yrs lateral) subject to CGPA >= 9 and Grade >= A in first attempt throughout."
+      ]
+    }
+  },
+  "general_regulations": {
+    "title": "General Regulations",
+    "master_credits_table": {
+      "ref": "B.0",
+      "label": "Admission Year, Scheme & Total Credits",
+      "columns": [
+        "Admission Year",
+        "Applicable VTU Scheme",
+        "Total Credits — Regular B.E.",
+        "Total Credits — Lateral Entry"
+      ],
+      "rows": [
+        [
+          "2018–19",
+          "2018 Scheme",
+          "175",
+          "135"
+        ],
+        [
+          "2019–20",
+          "2018 Scheme",
+          "175",
+          "135"
+        ],
+        [
+          "2020–21",
+          "2018 Scheme",
+          "175",
+          "135"
+        ],
+        [
+          "2021–22",
+          "2021 Scheme",
+          "160",
+          "120"
+        ],
+        [
+          "2022–23",
+          "2022 Scheme",
+          "160",
+          "120"
+        ],
+        [
+          "2023–24",
+          "2022 Scheme",
+          "160",
+          "120"
+        ],
+        [
+          "2024–25",
+          "2022 Scheme",
+          "160",
+          "120"
+        ],
+        [
+          "2025–26",
+          "2025 Scheme",
+          "160 + 5 (Skill Dev.)",
+          "120 + 4 (Skill Dev.)"
+        ],
+        [
+          "2026–27",
+          "2025 Scheme",
+          "160 + 5 (Skill Dev.)",
+          "120 + 4 (Skill Dev.)"
+        ]
+      ]
+    },
+    "last_attempt_table": {
+      "ref": "B.0.1",
+      "label": "Maximum Duration & Last Permitted Examination Attempt",
+      "notes": [
+        "2018 & Earlier Schemes: The maximum duration prescribed by VTU has been completed. All examination attempts under these regulations stand exhausted.",
+        "Lateral Entry Admissions — 2020 & Earlier: All permissible examination attempts have been exhausted as per VTU Regulations (maximum duration of six years from the year of first admission)."
+      ],
+      "columns": [
+        "Admission AY (Regular)",
+        "Last Attempt AY (Regular, 8 yrs max)",
+        "Admission AY (Lateral)",
+        "Last Attempt AY (Lateral, 6 yrs max)"
+      ],
+      "rows": [
+        [
+          "2019–20",
+          "2026–27",
+          "2019–20",
+          "June/July 2026"
+        ],
+        [
+          "2020–21",
+          "2027–28",
+          "2020–21",
+          "June/July 2026"
+        ],
+        [
+          "2021–22",
+          "2028–29",
+          "2021–22",
+          "2026–27"
+        ],
+        [
+          "2022–23",
+          "2029–30",
+          "2022–23",
+          "2027–28"
+        ],
+        [
+          "2023–24",
+          "2030–31",
+          "2023–24",
+          "2028–29"
+        ],
+        [
+          "2024–25",
+          "2031–32",
+          "2024–25",
+          "2029–30"
+        ],
+        [
+          "2025–26",
+          "2032–33",
+          "2025–26",
+          "2030–31"
+        ],
+        [
+          "2026–27",
+          "2033–34",
+          "2026–27",
+          "2031–32"
+        ]
+      ],
+      "notes_heading": "B.E. Regulations"
+    },
+    "post_even_sem_table": {
+      "ref": "B.0.2",
+      "label": "Post-Even-Semester Examination Provisions",
+      "columns": [
+        "Admission Batch",
+        "Provision After the Even Semester Examinations"
+      ],
+      "rows": [
+        [
+          "2025",
+          [
+            "Summer Semester"
+          ]
+        ],
+        [
+          "2024",
+          [
+            "Summer Semester"
+          ]
+        ],
+        [
+          "2023",
+          [
+            "AY 2023–24: Supplementary Exam (only for all F grade)",
+            "AY 2024–25: Supplementary Exam (only for all F grade)",
+            "AY 2025–26: Supplementary Semester (approved by VTU); DX grade Reg. Allowed"
+          ]
+        ],
+        [
+          "2022",
+          [
+            "Supplementary Semester with Forgo CIE"
+          ]
+        ],
+        [
+          "2021",
+          [
+            "Supplementary Term — Carry Over"
+          ]
+        ],
+        [
+          "2020, 2019",
+          {
+            "lines": [
+              "For the 2018 Scheme, as per NIE, Carry-Over 'F' was not applicable.",
+              "Following the VTU Circular (No. 4912) — “Permitting the Students to Carry Forward the CIE Marks for the Supplementary/Arrears Examinations,” Carry Over has been implemented with effect from December 2025."
+            ],
+            "highlight": "Carry Over has been implemented with effect from December 2025."
+          }
+        ]
+      ]
+    },
+    "passing_marks": {
+      "ref": "B.0.3",
+      "label": "Passing Marks Requirement — By Admission Year",
+      "columns": [
+        "Admission Year",
+        "CIE",
+        "SEE",
+        "CIE+SEE"
+      ],
+      "rows": [
+        [
+          "2026, 2025, 2024",
+          "40%",
+          "35%",
+          "40%"
+        ],
+        [
+          "2023, 2022, 2021",
+          "40%",
+          "40%",
+          "40%"
+        ],
+        [
+          "2020",
+          "40%",
+          "40%",
+          "40%"
+        ],
+        [
+          "2019",
+          "50%",
+          "40%",
+          "45%"
+        ]
+      ],
+      "gmr": {
+        "label": "GMR - Grace Marks Rule with effect from October 2024",
+        "rule": "2% of Maximum SEE marks — applicable on the condition that adding this to CIE and SEE will result in a Pass grade."
+      }
+    },
+    "activity_points": {
+      "ref": "A.1",
+      "label": "Activity Points (Mandatory for Degree)",
+      "source_note": "As per the VTU Circular on Earning of Activity Points under the 2018 Regulations, the Activity Point requirement is as follows:",
+      "categories": [
+        {
+          "category": "Regular B.E./B.Tech. students",
+          "applicable_from": "2018–19 admission batch onwards",
+          "points": 100
+        },
+        {
+          "category": "Lateral Entry students",
+          "applicable_from": "2019–20 admission batch onwards",
+          "points": 75
+        },
+        {
+          "category": "Students transferred from another university to 5th Semester",
+          "applicable_from": "2020–21 admission batch onwards",
+          "points": 50
+        }
+      ],
+      "notes": [
+        "Activity points do not affect SGPA/CGPA and are not considered for vertical progression.",
+        "8th semester grade card is released only after the required activity points are earned."
+      ]
+    },
+    "cgpa_to_percentage_conversion": {
+      "ref": "A.2",
+      "label": "CGPA to Percentage Conversion (VTU — UG)",
+      "formulas": [
+        {
+          "applicable_to": "Admission Batch 2018 to 2020 (2018 Scheme)",
+          "formula": "Percentage = (CGPA − 0.75) × 10",
+          "min_cgpa_for_degree": 5.0
+        },
+        {
+          "applicable_to": "Admission Batch 2021, 2022, 2023, 2024",
+          "formula": "Percentage = CGPA × 10",
+          "min_cgpa_for_degree": 5.0
+        },
+        {
+          "applicable_to": "Admission Batch 2025, 2026 (same as 2022 scheme)",
+          "formula": "Percentage = CGPA × 10",
+          "min_cgpa_for_degree": 4.0
+        }
+      ],
+      "class_bands": [
+        {
+          "applicable_to": "Admission Batch 2018 to 2020, 2018 Scheme",
+          "bands": [
+            {
+              "cgpa": "≥ 7.75",
+              "percentage": "≥ 70%",
+              "class": "First Class with Distinction (FCD)"
+            },
+            {
+              "cgpa": "≥ 6.75 and < 7.75",
+              "percentage": "60% to < 70%",
+              "class": "First Class (FC)"
+            },
+            {
+              "cgpa": "< 6.75",
+              "percentage": "< 60%",
+              "class": "Second Class (SC)"
+            }
+          ]
+        },
+        {
+          "applicable_to": "Admission Batch 2021 onwards",
+          "bands": [
+            {
+              "cgpa": "≥ 7.00",
+              "percentage": "≥ 70%",
+              "class": "First Class with Distinction (FCD)"
+            },
+            {
+              "cgpa": "6.00 – 6.99",
+              "percentage": "60% – 69%",
+              "class": "First Class (FC)"
+            },
+            {
+              "cgpa": "5.00 – 5.99",
+              "percentage": "50% – 59%",
+              "class": "Second Class (SC)"
+            },
+            {
+              "cgpa": "4.00 – 4.99",
+              "percentage": "40% – 49%",
+              "class": "Pass Class (PC)"
+            }
+          ]
+        }
+      ]
+    },
+    "quick_reference_table": {
+      "label": "Degree Requirements — Quick Reference",
+      "note": "Consolidated from the Admission Year/Scheme - Credits/ Activity Points/ NCMC (Non-Credit Mandatory Courses) requirement.",
+      "columns": [
+        "Admission Year",
+        "Scheme",
+        "Total Credits (Regular / Lateral)",
+        "Skill Dev. Credits",
+        "Activity Points Required",
+        "Min CGPA",
+        "NCME Courses"
+      ],
+      "rows": [
+        [
+          "2019–20",
+          "2018 Scheme",
+          "175 / 135",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)"
+          ],
+          "5.0",
+          [
+            "COMPETENCY TRAINING"
+          ]
+        ],
+        [
+          "2020–21",
+          "2018 Scheme",
+          "175 / 135",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "5.0",
+          [
+            "COMPETENCY TRAINING"
+          ]
+        ],
+        [
+          "2021–22",
+          "2021 Scheme",
+          "160 / 120",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "5.0",
+          [
+            "BALAKE KANNADA / SAMSKRUTIKA KANNADA",
+            "SOCIAL CONNECT AND RESPONSIBILITY",
+            "CONSTITUTION OF INDIA AND PROFESSIONAL ETHICS",
+            "PHYSICAL EDUCATION",
+            "ENVIRONMENT STUDIES",
+            "PHYSICAL EDUCATION"
+          ]
+        ],
+        [
+          "2022–23",
+          "2022 Scheme",
+          "160 / 120",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "--",
+          [
+            "NATIONAL SERVICE SCHEME / PHYSICAL EDUCATION / YOGA / MUSIC — Semesters 3, 4, 5 & 6",
+            "INDIAN KNOWLEDGE SYSTEMS — Semester 6"
+          ]
+        ],
+        [
+          "2023–24",
+          "2022 Scheme",
+          "160 / 120",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "--",
+          [
+            "NATIONAL SERVICE SCHEME / PHYSICAL EDUCATION / YOGA / MUSIC — Semesters 3, 4, 5 & 6",
+            "INDIAN KNOWLEDGE SYSTEMS — Semester 6"
+          ]
+        ],
+        [
+          "2024–25",
+          "2022 Scheme",
+          "160 / 120",
+          "—",
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "--",
+          [
+            "NATIONAL SERVICE SCHEME / PHYSICAL EDUCATION / YOGA / MUSIC — Semesters 3, 4, 5 & 6",
+            "INDIAN KNOWLEDGE SYSTEMS — Semester 6"
+          ]
+        ],
+        [
+          "2025–26",
+          "2025 Scheme",
+          "160 / 120",
+          [
+            "+5 Credit (Regular)",
+            "+4 Credit (Lateral)",
+            "Not considered for CGPA calculation"
+          ],
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "4.0",
+          [
+            "SOFT SKILLS — First Year",
+            "INDIAN CONSTITUTION AND ENGINEERING ETHICS — First Year",
+            "NATIONAL SERVICE SCHEME / PHYSICAL EDUCATION / YOGA / MUSIC — Semesters 3 & 4",
+            "Other NCMC courses will be added later, once the official structure is announced."
+          ]
+        ],
+        [
+          "2026–27",
+          "2025 Scheme",
+          "160 / 120",
+          [
+            "+5 Credit (Regular)",
+            "+4 Credit (Lateral)",
+            "Not considered for CGPA calculation"
+          ],
+          [
+            "100 (Regular)",
+            "75 (Lateral)",
+            "50 (Transferred)"
+          ],
+          "4.0",
+          [
+            "To be announced — official 2025 Scheme NCMC structure pending."
+          ]
+        ]
+      ]
+    }
+  }
+}
