@@ -640,14 +640,6 @@
         ],
         "other_grades": [
           {
-            "code": "I",
-            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
-          },
-          {
-            "code": "X",
-            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
-          },
-          {
             "code": "DX",
             "meaning": "Not Eligible CIE/Attendance — grade point 0, credits not included in CGPA"
           },
@@ -666,6 +658,14 @@
           {
             "code": "NP",
             "meaning": "Not Passed — NCMC fail"
+          },
+          {
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
           },
           {
             "code": "W",
@@ -766,28 +766,28 @@
         ],
         "other_grades": [
           {
-            "code": "I",
-            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
-          },
-          {
-            "code": "X",
-            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
+            "code": "DX",
+            "meaning": "Not Eligible CIE/Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements — grade point 0, credits not included in CGPA"
           },
           {
             "code": "AB",
             "meaning": "Absent for the SEE of a registered Course"
           },
           {
-            "code": "DX",
-            "meaning": "Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements"
+            "code": "PP",
+            "meaning": "Pass in a non-credit course"
           },
           {
             "code": "NP",
-            "meaning": "Not satisfied the CIE requirements (non-credit course), with or without satisfying attendance"
+            "meaning": "Fail in a non-credit course"
           },
           {
-            "code": "PP",
-            "meaning": "Pass grade in a non-credit course"
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
           },
           {
             "code": "W",
@@ -892,28 +892,28 @@
         ],
         "other_grades": [
           {
-            "code": "I",
-            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
-          },
-          {
-            "code": "X",
-            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
+            "code": "DX",
+            "meaning": "Not Eligible CIE/Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements — grade point 0, credits not included in CGPA"
           },
           {
             "code": "AB",
             "meaning": "Absent for the SEE of a registered Course"
           },
           {
-            "code": "DX",
-            "meaning": "Shortage of attendance in a credit or non-credit course, with or without satisfying CIE requirements"
+            "code": "PP",
+            "meaning": "Pass in a non-credit course"
           },
           {
             "code": "NP",
-            "meaning": "Not satisfied the CIE requirements (non-credit course), with or without satisfying attendance"
+            "meaning": "Fail in a non-credit course"
           },
           {
-            "code": "PP",
-            "meaning": "Pass grade in a non-credit course"
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
           },
           {
             "code": "W",
