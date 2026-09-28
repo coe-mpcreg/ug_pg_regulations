@@ -641,7 +641,11 @@
         "other_grades": [
           {
             "code": "I",
-            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity; credits not included in CGPA"
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
           },
           {
             "code": "DX",
@@ -666,10 +670,6 @@
           {
             "code": "W",
             "meaning": "Withdrawn course"
-          },
-          {
-            "code": "X",
-            "meaning": "High CIE >=90%, but scored 'F' Grade — eligible for makeup"
           }
         ]
       },
@@ -765,6 +765,14 @@
           }
         ],
         "other_grades": [
+          {
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
+          },
           {
             "code": "AB",
             "meaning": "Absent for the SEE of a registered Course"
@@ -883,6 +891,14 @@
           }
         ],
         "other_grades": [
+          {
+            "code": "I",
+            "meaning": "Transitional Grade — passing CIE, absent from SEE due to illness/accident/family calamity — eligible for makeup exam; credits not included in CGPA"
+          },
+          {
+            "code": "X",
+            "meaning": "Transitional Grade — High CIE >=90%, but scored 'F' Grade — eligible for makeup exam; credits not included in CGPA"
+          },
           {
             "code": "AB",
             "meaning": "Absent for the SEE of a registered Course"
